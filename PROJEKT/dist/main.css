@@ -1,0 +1,74 @@
+.czerwony {
+  color: #ff0000;
+}
+
+.bigger-m {
+  margin: 80px;
+}
+
+.bigger-mt {
+  margin-top: 80px;
+}
+
+.bigger-mt-oferta {
+  margin-top: 120px;
+}
+
+.biggest-mt {
+  margin-top: 100px;
+}
+
+
+.oferta-mt{
+  margin-top: 60px;
+}
+
+.kontakt-mt{
+  margin-top: 70px;
+}
+
+.toggler-border {
+  border-color: black;
+}
+
+.czerwony {
+  color: #911e2a;
+}
+
+
+.nav-toggler-color{
+  border-color: rgb(148, 12, 12);
+}
+
+.offcanvas-width{
+  width: 300px;
+}
+
+
+@media only screen and (min-width: 393px) {
+  .taller-navbar {
+    margin-top: 10px
+  }
+}
+
+@media only screen and (min-width: 470px) {
+  .taller-navbar-2 {
+    margin-top: 90px
+  }
+}
+
+
+
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
